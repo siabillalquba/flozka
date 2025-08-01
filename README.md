@@ -16,6 +16,35 @@ Inspirations:
 - <https://www.bloomon.co.uk/>
 - <https://www.baletonflowerchef.com/>
 
+## Architecture & Tech Stack
+
+### Client = Presentation Layer (UI)
+
+- HTML
+- CSS
+  - Tailwind CSS
+  - shadcn/ui
+- JavaScript
+- TypeScript
+- React
+- React Router
+- Docker
+
+### Server = Application Layer (Business Logic)
+
+- JavaScript
+- TypeScript
+- Hono
+- OpenAPI
+- Zod
+- Docker
+
+### Data Access Layer (Database)
+
+- Prisma
+- PostgreSQL
+- Docker
+
 ## Features
 
 - Home page
