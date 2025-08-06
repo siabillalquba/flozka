@@ -71,15 +71,15 @@ Inspirations:
 
 ## UI Designs
 
-- Figma: TBA
+- Figma: <https://www.figma.com/design/4ZNR6gvcsBGU308MnoxoJo/Flozka?node-id=0-1&t=Aw7SQdnE9eNPE28V-1>
 
 ### Home Page
 
-<img alt="Home Page" src="./designs/home.jpg" width="400" />
+<img alt="Home Page" src="./public/home.jpg" width="400" />
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](./diagrams/erd.svg)
+![ERD](./public/flozka_erd.png)
 
 ## REST API Endpoints
 
@@ -126,6 +126,6 @@ Response Body:
   "id": "abc123",
   "name": "Fresh Flower",
   "price": 120000,
-  "colors": "white"
+  "color": "white"
 }
 ```
